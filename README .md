@@ -1,6 +1,6 @@
 # Interactive Countdown Timer
 
-![Banner](./banner.png)
+![Banner](banner.png)
 
 An interactive countdown timer web application that allows users to select any future date and time and see a live countdown in days, hours, minutes, and seconds.
 
@@ -29,7 +29,7 @@ An interactive countdown timer web application that allows users to select any f
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/countdown-timer.git
+   git clone https://github.com/dinesh-2601/CodeClause_CountdownTimer
    ```
 
 2. Open `index.html` in your favorite browser.
@@ -40,7 +40,7 @@ An interactive countdown timer web application that allows users to select any f
 
 ## Live Demo
 
-[Try the live demo here](https://your-username.github.io/countdown-timer/)
+[Try the live demo here](https://dinesh-2601.github.io/CodeClause_CountdownTimer/)
 
 ---
 
