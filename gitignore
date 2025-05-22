@@ -1,0 +1,12 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore node_modules and npm logs (in case user adds them later)
+node_modules/
+npm-debug.log*
+
+# Ignore build artifacts and environment files
+dist/
+.env
+.env.local
+*.log
