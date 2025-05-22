@@ -36,14 +36,10 @@ An interactive countdown timer web application that allows users to select any f
 
 3. Select a future date/time and click **Start Countdown**.
 
----
-
-## Live Demo
-
-[Try the live demo here](https://dinesh-2601.github.io/CodeClause_CountdownTimer/)
 
 ---
 
 ## License
 
-This project is open source and available under the MIT License.
+This project is licensed under the [MIT License](./LICENSE).
+
